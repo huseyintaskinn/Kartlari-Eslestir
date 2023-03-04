@@ -1,0 +1,9 @@
+Huseyin         238
+hakan           140
+Murat           100
+Sergen          60
+mehmet          60
+zeki            60
+veli            60
+Ayhan           59
+
